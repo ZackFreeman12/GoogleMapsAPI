@@ -1,0 +1,3 @@
+this app is a curated list of "fun" places based on the authors opinion
+made for users looking for something to do in the city of hamilton
+i implemented the ability to choose the type of directions you recieve (Driving vs Transit)
